@@ -1,19 +1,58 @@
 {
-  "USA|fashion": [
-    "https://toddshelton.com/blog/about-todd-shelton/made-in-america/american-made-clothing-brands",
-    "https://www.ringly.io/discover/best-dtc-clothing-brands"
+  "cote d'ivoire|auto": [
+    "https://www.africanbusinessreview.co.za/directory/ivory-coast/auto",
+    "https://www.africa-businesspages.com/cote-divoire/auto",
+    "https://www.ivoireauto.com/"
   ],
-  "USA|beauty": [
+  "ghana|auto": [
+    "https://www.ghanayellowpages.com/auto",
+    "https://www.ghanayellowpages.com/automotive",
+    "https://www.africanbusinessreview.co.za/directory/ghana/automotive",
+    "https://www.ghanayellowpages.com/automotive/"
+  ],
+  "mexico|auto": [
+    "https://www.autocosmos.com.mx/",
+    "https://www.mercadolibre.com.mx/autos",
+    "https://www.ocasion.com.mx/",
+    "https://www.seccionamarilla.com.mx/resultados/automoviles/1",
+    "https://www.seccionamarilla.com.mx/resultados/automotriz/1"
+  ],
+  "nigeria|auto": [
+    "https://www.carjunction.com.ng/",
+    "https://www.africa-businesspages.com/nigeria/auto",
+    "https://www.globalsources.com/manufacturers/nigeria/auto-importers.html",
+    "https://www.globalsources.com/manufacturers/Nigeria/used-car.html",
+    "https://www.africanbusinessreview.co.za/directory/nigeria/auto"
+  ],
+  "russia|auto": [
+    "https://www.drom.ru",
+    "https://changan.ru/dealers"
+  ],
+  "senegal|auto": [
+    "https://www.auto24.sn",
+    "https://cfaomotors-senegal.com",
+    "https://www.mansourmotors.sn",
+    "https://www.africa-businesspages.com/senegal/auto/",
+    "https://www.afribaba.sn/automobile",
+    "https://www.africanbusinessreview.co.za/directory/senegal/automotive",
+    "https://www.africanbusinessreview.co.za/directory/senegal/auto"
+  ],
+  "sudan|auto": [
+    "https://www.africanbusinessreview.co.za/directory/sudan/auto",
+    "https://www.globalsources.com/manufacturers/sudan/auto.html",
+    "https://www.africanbusinessreview.co.za/directory/sudan/automotive",
+    "https://www.africanbusinessreview.co.za/directory/sudan/",
+    "https://www.globalautocare.com/sudan-dealers/"
+  ],
+  "togo|auto": [
+    "https://www.africanbusinessreview.co.za/directory/togo/automotive",
+    "https://www.africa-businesspages.com/togo/auto"
+  ],
+  "usa|beauty": [
     "https://www.ringly.io/discover/best-dtc-skincare-brands",
     "https://1800dtc.com/brand-category/beauty-and-personal-care"
   ],
-  "Senegal|auto": [
-    "https://www.auto24.sn",
-    "https://cfaomotors-senegal.com",
-    "https://www.mansourmotors.sn"
-  ],
-  "Russia|auto": [
-    "https://www.drom.ru",
-    "https://changan.ru/dealers"
+  "usa|fashion": [
+    "https://toddshelton.com/blog/about-todd-shelton/made-in-america/american-made-clothing-brands"
   ]
 }
